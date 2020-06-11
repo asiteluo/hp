@@ -14,6 +14,7 @@ public class UserController {
     @RequestMapping("findUserByUserName")
     public User FindUserByUserName(){
        User user=  userMapper.selectUserByName("asdasd");
+        System.out.println("更新1");
         return user;
     }
 
