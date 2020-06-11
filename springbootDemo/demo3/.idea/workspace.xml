@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c3475b4-1243-4296-b6de-1d9858d32fe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/Interceptor/AuthenticationInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/Interceptor/InterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/dao/PassToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/dao/UserLoginToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/service/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/webapp/WEB-INF/jsp/login1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo3/Demo3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo3/Demo3ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/SpringbootJjwtApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/annotation/PassToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/annotation/UserLoginToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/config/InterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/interceptor/AuthenticationInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/interceptor/GloablExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/service/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/java/com/pjb/springbootjjwt/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/resources/com/pjb/springbootjjwt/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/main/resources/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-jwt-master/src/test/java/com/pjb/springbootjjwt/SpringbootJjwtApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Java/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Java\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bcQW406Stn35L9NoZXcKDILMSY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-jwt-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo3.Demo3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3475b4-1243-4296-b6de-1d9858d32fe2" name="Default Changelist" comment="" />
+      <created>1588928929456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588928929456</updated>
+      <workItem from="1588928932285" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
