@@ -15,6 +15,8 @@ public class UserController {
     public User FindUserByUserName(){
        User user=  userMapper.selectUserByName("asdasd");
         System.out.println("更新1");
+        System.out.println("创建分支");
+
         return user;
     }
 
