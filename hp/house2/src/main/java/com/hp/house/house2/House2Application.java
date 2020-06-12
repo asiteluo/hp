@@ -10,6 +10,7 @@ public class House2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(House2Application.class, args);
+         System.out.println("线上修改");
     }
 
 }
